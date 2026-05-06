@@ -4,7 +4,7 @@
 
 Astrophysics Graduate | Master’s Degree Holder in Astrophysics | Second year student in Data Science and Artificial Intelligence.
 
-[![LinkedIn](www.linkedin.com/in/jaime-rey-pardo-del-olmo-7a6236213)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/jaime-rey-pardo-del-olmo-7a6236213)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/jaimereypardo-star)
 
 
