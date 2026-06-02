@@ -14,6 +14,8 @@ Astrophysics Graduate | Master’s Degree Holder in Astrophysics | Second year s
 
 ### [$nap](https://github.com/lucas304dn/Snap) — 🏆 1st place, bunq × Anthropic × AWS Hackathon 7.0
 
+### [Cortex](https://github.com/jaimereypardo-star/Cortex) - 🏅 Won Top 5 at EurHackNL Hackathon 
+
 ---
 
 ## Tech Stack
