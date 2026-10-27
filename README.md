@@ -16,6 +16,8 @@ Astrophysics Graduate | Master’s Degree Holder in Astrophysics | Second year s
 
 ### [Cortex](https://github.com/jaimereypardo-star/Cortex) - 🏅 Won Top 5 at EurHackNL Hackathon 
 
+### [Re3ieve](https://github.com/jaimereypardo-star/re3ieve) - 🏅 Won demonstration category at Leiden University’s first official AI team hackathon.
+
 ---
 
 ## Tech Stack
